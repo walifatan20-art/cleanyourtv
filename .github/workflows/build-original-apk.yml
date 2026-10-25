@@ -31,4 +31,3 @@ jobs:
         with:
           name: CleanYourTV-Original
           path: launcher/app/build/outputs/apk/release/app-release.apk
-  q
